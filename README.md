@@ -1,0 +1,2 @@
+# LetMeRepair_Comments
+ LetMeRepair şirketinde Kullanılan ERP programı için Arızaya gelen cihazların servis formuna yazılan; arıza açıklamaları ve yapılan işlemler için üretilen hem ingilizce hem türkçe kaynağını sahip otomatik yorum üretici yazılımdır. Serviste çalışan ingilizce veya türkçe bilgisi olmadıkları için servis formu yorumlarını yazamayanlara yardımcı olan ve servis formu yorumlarının tek kalıp olmasını sağlayan yazılımdır. C# Winform ve Microsoft Access veritabanı kullanılarak tarafımca yazılmıştır.

@@ -1,0 +1,49 @@
+C:\Users\NeoWorf\source\repos\LetMeRepair_Comments\LetMeRepair_Comments\bin\Debug\LetMeRepair_Comments.exe.config
+C:\Users\NeoWorf\source\repos\LetMeRepair_Comments\LetMeRepair_Comments\bin\Debug\LetMeRepair_Comments.exe
+C:\Users\NeoWorf\source\repos\LetMeRepair_Comments\LetMeRepair_Comments\bin\Debug\LetMeRepair_Comments.pdb
+C:\Users\NeoWorf\source\repos\LetMeRepair_Comments\LetMeRepair_Comments\obj\Debug\LetMeRepair_Comments.Properties.Resources.resources
+C:\Users\NeoWorf\source\repos\LetMeRepair_Comments\LetMeRepair_Comments\obj\Debug\LetMeRepair_Comments.csproj.GenerateResource.cache
+C:\Users\NeoWorf\source\repos\LetMeRepair_Comments\LetMeRepair_Comments\obj\Debug\LetMeRepair_Comments.csproj.CoreCompileInputs.cache
+C:\Users\NeoWorf\source\repos\LetMeRepair_Comments\LetMeRepair_Comments\obj\Debug\LetMeRepair_Comments.exe
+C:\Users\NeoWorf\source\repos\LetMeRepair_Comments\LetMeRepair_Comments\obj\Debug\LetMeRepair_Comments.pdb
+C:\Users\NeoWorf\source\repos\LetMeRepair_Comments\LetMeRepair_Comments\obj\Debug\LetMeRepair_Comments.ekle_sirtuex.resources
+C:\Users\NeoWorf\source\repos\LetMeRepair_Comments\LetMeRepair_Comments\obj\Debug\LetMeRepair_Comments.anaform_sirtuex.resources
+C:\Users\NeoWorf\source\repos\LetMeRepair_Comments\LetMeRepair_Comments\obj\Debug\LetMeRepair_Comments.duzenle_sirtuex.resources
+C:\Users\NeoWorf\source\repos\LetMeRepair_Comments\LetMeRepair_Comments\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\NeoWorf\source\repos\LetMeRepair_Comments\LetMeRepair_Comments\obj\Debug\LetMeRepair_Comments.csproj.CopyComplete
+C:\Users\NeoWorf\source\repos\LetMeRepair_Comments\LetMeRepair_Comments\obj\Debug\LetMeRepair_Comments.sablon_ana.resources
+C:\Users\NeoWorf\source\repos\LetMeRepair_Comments\LetMeRepair_Comments\obj\Debug\LetMeRepair_Comments.mizer_about.resources
+D:\LetMeRepair_Comments\LetMeRepair_Comments\bin\Debug\LetMeRepair_Comments.exe.config
+D:\LetMeRepair_Comments\LetMeRepair_Comments\bin\Debug\LetMeRepair_Comments.exe
+D:\LetMeRepair_Comments\LetMeRepair_Comments\bin\Debug\LetMeRepair_Comments.pdb
+D:\LetMeRepair_Comments\LetMeRepair_Comments\obj\Debug\LetMeRepair_Comments.csprojAssemblyReference.cache
+D:\LetMeRepair_Comments\LetMeRepair_Comments\obj\Debug\LetMeRepair_Comments.duzenle_sirtuex.resources
+D:\LetMeRepair_Comments\LetMeRepair_Comments\obj\Debug\LetMeRepair_Comments.ekle_sirtuex.resources
+D:\LetMeRepair_Comments\LetMeRepair_Comments\obj\Debug\LetMeRepair_Comments.anaform_sirtuex.resources
+D:\LetMeRepair_Comments\LetMeRepair_Comments\obj\Debug\LetMeRepair_Comments.mizer_about.resources
+D:\LetMeRepair_Comments\LetMeRepair_Comments\obj\Debug\LetMeRepair_Comments.Properties.Resources.resources
+D:\LetMeRepair_Comments\LetMeRepair_Comments\obj\Debug\LetMeRepair_Comments.sablon_ana.resources
+D:\LetMeRepair_Comments\LetMeRepair_Comments\obj\Debug\LetMeRepair_Comments.csproj.GenerateResource.cache
+D:\LetMeRepair_Comments\LetMeRepair_Comments\obj\Debug\LetMeRepair_Comments.csproj.CoreCompileInputs.cache
+D:\LetMeRepair_Comments\LetMeRepair_Comments\obj\Debug\LetMeRepair_Comments.csproj.CopyComplete
+D:\LetMeRepair_Comments\LetMeRepair_Comments\obj\Debug\LetMeRepair_Comments.exe
+D:\LetMeRepair_Comments\LetMeRepair_Comments\obj\Debug\LetMeRepair_Comments.pdb
+D:\LetMeRepair_Comments\LetMeRepair_Comments\obj\Debug\LetMeRepair_Comments.paket_olarak_kaydet.resources
+D:\LetMeRepair_Comments\LetMeRepair_Comments\obj\Debug\LetMeRepair_Comments.paket_ekle_duzenle.resources
+K:\Eski PC Yedekleri\07.08.2019 SİYAH FLASH\LetMeRepair_Comments\LetMeRepair_Comments\bin\Debug\LetMeRepair_Comments.exe.config
+K:\Eski PC Yedekleri\07.08.2019 SİYAH FLASH\LetMeRepair_Comments\LetMeRepair_Comments\bin\Debug\LetMeRepair_Comments.exe
+K:\Eski PC Yedekleri\07.08.2019 SİYAH FLASH\LetMeRepair_Comments\LetMeRepair_Comments\bin\Debug\LetMeRepair_Comments.pdb
+K:\Eski PC Yedekleri\07.08.2019 SİYAH FLASH\LetMeRepair_Comments\LetMeRepair_Comments\obj\Debug\LetMeRepair_Comments.csprojAssemblyReference.cache
+K:\Eski PC Yedekleri\07.08.2019 SİYAH FLASH\LetMeRepair_Comments\LetMeRepair_Comments\obj\Debug\LetMeRepair_Comments.duzenle_sirtuex.resources
+K:\Eski PC Yedekleri\07.08.2019 SİYAH FLASH\LetMeRepair_Comments\LetMeRepair_Comments\obj\Debug\LetMeRepair_Comments.ekle_sirtuex.resources
+K:\Eski PC Yedekleri\07.08.2019 SİYAH FLASH\LetMeRepair_Comments\LetMeRepair_Comments\obj\Debug\LetMeRepair_Comments.anaform_sirtuex.resources
+K:\Eski PC Yedekleri\07.08.2019 SİYAH FLASH\LetMeRepair_Comments\LetMeRepair_Comments\obj\Debug\LetMeRepair_Comments.mizer_about.resources
+K:\Eski PC Yedekleri\07.08.2019 SİYAH FLASH\LetMeRepair_Comments\LetMeRepair_Comments\obj\Debug\LetMeRepair_Comments.paket_ekle_duzenle.resources
+K:\Eski PC Yedekleri\07.08.2019 SİYAH FLASH\LetMeRepair_Comments\LetMeRepair_Comments\obj\Debug\LetMeRepair_Comments.paket_olarak_kaydet.resources
+K:\Eski PC Yedekleri\07.08.2019 SİYAH FLASH\LetMeRepair_Comments\LetMeRepair_Comments\obj\Debug\LetMeRepair_Comments.Properties.Resources.resources
+K:\Eski PC Yedekleri\07.08.2019 SİYAH FLASH\LetMeRepair_Comments\LetMeRepair_Comments\obj\Debug\LetMeRepair_Comments.sablon_ana.resources
+K:\Eski PC Yedekleri\07.08.2019 SİYAH FLASH\LetMeRepair_Comments\LetMeRepair_Comments\obj\Debug\LetMeRepair_Comments.csproj.GenerateResource.cache
+K:\Eski PC Yedekleri\07.08.2019 SİYAH FLASH\LetMeRepair_Comments\LetMeRepair_Comments\obj\Debug\LetMeRepair_Comments.csproj.CoreCompileInputs.cache
+K:\Eski PC Yedekleri\07.08.2019 SİYAH FLASH\LetMeRepair_Comments\LetMeRepair_Comments\obj\Debug\LetMeRepair_Comments.csproj.CopyComplete
+K:\Eski PC Yedekleri\07.08.2019 SİYAH FLASH\LetMeRepair_Comments\LetMeRepair_Comments\obj\Debug\LetMeRepair_Comments.exe
+K:\Eski PC Yedekleri\07.08.2019 SİYAH FLASH\LetMeRepair_Comments\LetMeRepair_Comments\obj\Debug\LetMeRepair_Comments.pdb

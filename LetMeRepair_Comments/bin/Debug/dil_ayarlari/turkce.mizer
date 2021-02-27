@@ -1,0 +1,54 @@
+Sirtuex - Mizer - Dil oluşturucu Motor v001
+<mizer>
+
+	<turkce
+		<bolge_global_mizer
+		control_defect_yazisi="Kontrol/Arıza"
+		solution_montage_yazisi="Çözüm/Değişen"
+		final_test_end_Yazisi="SonTest/Sonuç"
+		cikis="Çıkış"
+		remove_et="Çıkar"
+		trash_et="Temizle"
+		kaydet="Kaydet"
+		sil="Sil"
+		arama_ariza="Kontrol/Arıza Ara"
+		arama_parca="Çözüm/Değişen Ara"
+		arama_kut="SonTest/Sonuç Ara"
+		
+		
+		
+		/>
+	
+		<bolge1_mizer
+		yorum_olusturucu_ana_duzenle="Düzenle"
+		yorum_olusturucu_ana_yeni="Yeni Ekle"
+		sadece_ariza="Sadece Arıza"
+		sadece_cozum="Sadece Çözüm"
+		defect_and_solution="Arıza ve Çözümü Ekle"
+		son_yazi_ekle="Son Yazıyı Ekle"
+		tum_link_cozumler="Kontrol/Arıza Bağlantısını Kaldır"
+		/>
+		
+		<bolge2_mizer
+		kontrol_hata_baglantisi="Kontrol/Arıza Bağlantısı"
+		yorum_set="Yorumu Belirt"
+		baslik_set="Başlığı Belirt"
+		baslik_plchldr="Başlığı Yazın..."
+		kayit_eklendi="Kayıt Eklendi"
+		ayni_basliktan="Aynı başlıktan Mevcut"
+		gecerli_baslik="Lütfen Geçerli bir başlık giriniz."
+		ana_baslik="Lütfen Yorum tipini seçip; Benzirsiz bir başlık girin."
+		/>
+		
+		/>
+		<bolge3_mizer
+		baslik_ana="Başlık"
+		secili_yazi="Seçili Yazı"
+		solution_of_fault="Bu hangi arızanın çözümü olacak?"
+		yazi_guncellendi="Seçili Kayıt Güncellendi."
+		ana_baslik_gnclle="Düzenlemek istediğiniz başlığı seçin"
+		/>
+
+	/>
+
+</>
